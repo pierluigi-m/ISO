@@ -1,0 +1,95 @@
+InfoBegin
+InfoKey: ModDate
+InfoValue: D:20200326101606+01'00'
+InfoBegin
+InfoKey: CreationDate
+InfoValue: D:20200326101606+01'00'
+InfoBegin
+InfoKey: Creator
+InfoValue: pdftk 2.02 - www.pdftk.com
+InfoBegin
+InfoKey: Producer
+InfoValue: itext-paulo-155 (itextpdf.sf.net-lowagie.com)
+PdfID0: 75e6bc7e384338321de71c5965d0f329
+PdfID1: 9f2f609b0e5632b58cd4032f5a74cd2a
+NumberOfPages: 16
+PageMediaBegin
+PageMediaNumber: 1
+PageMediaRotation: 0
+PageMediaRect: 0 0 591.36 824.88
+PageMediaDimensions: 591.36 824.88
+PageMediaBegin
+PageMediaNumber: 2
+PageMediaRotation: 0
+PageMediaRect: 0 0 591.36 824.88
+PageMediaDimensions: 591.36 824.88
+PageMediaBegin
+PageMediaNumber: 3
+PageMediaRotation: 0
+PageMediaRect: 0 0 591.36 824.88
+PageMediaDimensions: 591.36 824.88
+PageMediaBegin
+PageMediaNumber: 4
+PageMediaRotation: 0
+PageMediaRect: 0 0 591.36 824.88
+PageMediaDimensions: 591.36 824.88
+PageMediaBegin
+PageMediaNumber: 5
+PageMediaRotation: 0
+PageMediaRect: 0 0 591.36 824.88
+PageMediaDimensions: 591.36 824.88
+PageMediaBegin
+PageMediaNumber: 6
+PageMediaRotation: 0
+PageMediaRect: 0 0 591.36 824.88
+PageMediaDimensions: 591.36 824.88
+PageMediaBegin
+PageMediaNumber: 7
+PageMediaRotation: 0
+PageMediaRect: 0 0 591.36 824.88
+PageMediaDimensions: 591.36 824.88
+PageMediaBegin
+PageMediaNumber: 8
+PageMediaRotation: 0
+PageMediaRect: 0 0 591.36 824.88
+PageMediaDimensions: 591.36 824.88
+PageMediaBegin
+PageMediaNumber: 9
+PageMediaRotation: 0
+PageMediaRect: 0 0 591.36 824.88
+PageMediaDimensions: 591.36 824.88
+PageMediaBegin
+PageMediaNumber: 10
+PageMediaRotation: 0
+PageMediaRect: 0 0 591.36 824.88
+PageMediaDimensions: 591.36 824.88
+PageMediaBegin
+PageMediaNumber: 11
+PageMediaRotation: 0
+PageMediaRect: 0 0 591.36 824.88
+PageMediaDimensions: 591.36 824.88
+PageMediaBegin
+PageMediaNumber: 12
+PageMediaRotation: 0
+PageMediaRect: 0 0 591.36 824.88
+PageMediaDimensions: 591.36 824.88
+PageMediaBegin
+PageMediaNumber: 13
+PageMediaRotation: 0
+PageMediaRect: 0 0 591.36 824.88
+PageMediaDimensions: 591.36 824.88
+PageMediaBegin
+PageMediaNumber: 14
+PageMediaRotation: 0
+PageMediaRect: 0 0 591.36 824.88
+PageMediaDimensions: 591.36 824.88
+PageMediaBegin
+PageMediaNumber: 15
+PageMediaRotation: 0
+PageMediaRect: 0 0 591.36 824.88
+PageMediaDimensions: 591.36 824.88
+PageMediaBegin
+PageMediaNumber: 16
+PageMediaRotation: 0
+PageMediaRect: 0 0 591.36 824.88
+PageMediaDimensions: 591.36 824.88

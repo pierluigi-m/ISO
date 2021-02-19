@@ -1,0 +1,34 @@
+InfoBegin
+InfoKey: ModDate
+InfoValue: D:20210219085938+00'00'
+InfoBegin
+InfoKey: CreationDate
+InfoValue: D:20210219085938+00'00'
+InfoBegin
+InfoKey: Author
+InfoValue: Pierluigi Migliano
+InfoBegin
+InfoKey: Title
+InfoValue: MIGLIANO Pierluigi
+InfoBegin
+InfoKey: Keywords
+InfoValue: DAEWhBPF-eE,BAEWhAp-lqw
+InfoBegin
+InfoKey: Creator
+InfoValue: Canva
+InfoBegin
+InfoKey: Producer
+InfoValue: Canva
+PdfID0: 5edd8dd043c90e54778972c36450fedf
+PdfID1: 5edd8dd043c90e54778972c36450fedf
+NumberOfPages: 2
+PageMediaBegin
+PageMediaNumber: 1
+PageMediaRotation: 0
+PageMediaRect: 0 7.82998 595.5 850.08
+PageMediaDimensions: 595.5 842.25
+PageMediaBegin
+PageMediaNumber: 2
+PageMediaRotation: 0
+PageMediaRect: 0 7.82998 595.5 850.08
+PageMediaDimensions: 595.5 842.25
